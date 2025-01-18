@@ -6,7 +6,7 @@ export default {
   ],
   theme: { extend: {
     boxShadow: {
-      'aqua': '0px 1px 11px 0px rgb(0, 255, 255)',  // Red shadow
+      'aqua': '0px 1px 11px 0px rgb(0, 255, 255)',  // aqua shadow
     },
   },
   },
